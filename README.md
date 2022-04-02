@@ -1,5 +1,7 @@
 # CIM1-Projet-Simon
 A "Simon says" project, CMS components, ATTtiny1634 microcontroller
+Un projet Simon, u "Jacques a dit", en composants CMS, ave un microcontrôleur ATTtiny1634.
+
 
 ## Objectif
 
@@ -11,15 +13,13 @@ Project to (re)create a game of the Simon MB (c), also called "Simon says". Afte
 ![Simon fini](https://github.com/LibrEduc/CIM1-Projet-Simon/blob/master/Photos/SimonFini.jpg?raw=true)
 
 ## Liste des pièces / Bill of Materials
-Condensateur C-EUC1206
-Support pile
-MicroContrôleur
-Connecteur ISP
-Led Neopixel
-Mosfet canal N
-Résistance
-Buzzer 5v 2,3kHz 50ma
-Bouton poussoir
-Interrupteur
-
-
+- Condensateur C-EUC1206
+- Support pile
+- MicroContrôleur
+- Connecteur ISP
+- Led Neopixel
+- Mosfet canal N
+- Résistance
+- Buzzer 5v 2,3kHz 50ma
+- Bouton poussoir
+- Interrupteur
