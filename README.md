@@ -1,5 +1,6 @@
 # CIM1-Projet-Simon
-A "Simon says" project, CMS components, ATTtiny1634 microcontroller
+A "Simon says" project, CMS components, ATTtiny1634 microcontroller.
+
 Un projet Simon, u "Jacques a dit", en composants CMS, ave un microcontrôleur ATTtiny1634.
 
 
